@@ -14,5 +14,5 @@ function snakeDraw(){var p=this.points;for(m=1;m<p.length;m++){context.beginPath
 function snakes(n){this.snakeys=[];for(var p=0;p<n;p++){this.snakeys.push(new snake());}
 this.go=snakesGo;}
 function snakesGo(){for(var r=0;r<this.snakeys.length;r++){this.snakeys[r].move();this.snakeys[r].draw();}}
-var sn=new snakes(20);var txt,thetext;function go(){context.drawImage(bgcanv,0,0);txt=document.getElementById("txt").value;}
+var sn=new snakes(20);var txt,thetext;function go(){context.drawImage(bgcanv,0,0);}
 go();setInterval(function(){context.globalAlpha=0.2;context.drawImage(bgcanv,0,0);context.globalAlpha=1;sn.go();},1000/30);});
