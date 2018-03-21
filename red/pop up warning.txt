@@ -1,4 +1,3 @@
-<div id="exit"></div>
 <div class='flash error sizing'>
 <div class='bg sizing'>
 <div class='bg-icon sizing'></div>
