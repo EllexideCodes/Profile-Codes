@@ -1,0 +1,47 @@
+<div id="exit" onclick="exitPop()"></div>
+<div class='flash error sizing'>
+<div class='bg sizing'>
+<div class='bg-icon sizing'></div>
+<div class='bg-btns sizing'></div>
+</div>
+<div class='inside sizing'>
+<figure class='icon sizing'>
+<svg viewBox='0 0 84 84'>
+<g fill='none'>
+<circle cx='42' cy='42' fill='#F4B6BA' r='42'></circle>
+<path d='M30,65 C33.0710678,61.9107443 37.3137085,60 42,60 C46.6862915,60 50.9289322,61.9107443 54,65' stroke-width='5' stroke='#C46465'></path>
+<circle cx='30' cy='45' fill='#C46465' r='3'></circle>
+<circle cx='54' cy='45' fill='#C46465' r='3'></circle>
+</g>
+</svg>
+</figure>
+<div>
+<h2>Whoops!</h2>
+<p>
+This code is copyrighted and paid for! I can't give you the information you want.
+</p>
+<p>
+Contact Elle for that.
+</p>
+<p>
+Click anywhere to continue.
+</p>
+</div>
+<div class='btns sizing'>
+<a href="https://ellexide-codes.tumblr.com" target="_blank">
+<button>
+<svg viewBox='0 0 56 56'>
+<g fill='none' stroke-width='4' stroke='#C46465'>
+<polyline points='31.5147186 19.5147186 40 28 31.5147186 36.4852814'></polyline>
+<line x1='40' x2='16' y1='28' y2='28'></line>
+</g>
+</svg>
+<span>Find more codes</span>
+</button>
+</a>
+</div>
+</div>
+</div>
+</div>
+<script>function exitPop(){$('#warning').fadeOut('fast','swing');</script>
+<div style="display:none">
