@@ -1,9 +1,13 @@
 # Profile-Codes
 ## TABLE OF CONTENTS
 [Description](#description)
+
 [Warning](#warning)
+
 [Terms of Use](https://ellexide-codes.tumblr.com/disclaimer)
+
 [How to Commission](#howto)
+
 [Contact](#contact)
 
 ### Description
