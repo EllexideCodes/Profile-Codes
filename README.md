@@ -22,7 +22,7 @@
 
 ---
 
-### Warning And Stuff
+### Warning
 
    Any attempt at copying, redistributing, remaking, major alterations, removing of credit whatsoever will result in you at risk of being sued--whether it be a commissioned code, requested code, or free code. If you wish to do any major alterations to your profile while still using a present base code, I am *always* available to do the alterations for you. 
 
