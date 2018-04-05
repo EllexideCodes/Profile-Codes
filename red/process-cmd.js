@@ -64,6 +64,8 @@ function proccessCMD(cmd) {
     case 'hello':
       return `Hey! You seem a bit lost. It's cool you said hello first though! Here's a tip: <i>If you are suddenly unable to type
       in the commands bar, click on the dollar sign ($)</i>`;
+    case '':
+      return '';
     default:
       return "Unknown Command || type '--help' to see the command module";
   }
