@@ -58,8 +58,6 @@ function proccessCMD(cmd) {
       return `<p class='output'><b><u>More Coders</u></b></p>
       <p><a href="https://roleplay.chat/profile.php?user=UFO" target="_blank" class='output'>U.F.O</a></p>
       <p><a href="https://roleplay.chat/profile.php?user=Alcyone" target="_blank" class='output'>Alcyone</a></p>
-      <p><a href="https://roleplay.chat/profile.php?user=Viking" target="_blank" class='output'>Alcyone</a></p>
-      <p><a href="http://pastebin.com/u/A_Bad_Bitch" target="_blank" class='output'>A Bad Bitch</a></p>
       <p><a href="http://devilslocketdesigns.webs.com/" target="_blank" class='output'>Devilsocket Designs</a></p>`;
     case 'hello':
       return `Hey! You seem a bit lost. It's cool you said hello first though! Here's a tip: <i>If you are suddenly unable to type
