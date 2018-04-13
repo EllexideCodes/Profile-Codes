@@ -43,14 +43,16 @@ function proccessCMD(cmd) {
       <a href="https://roleplay.chat/profile.php?user=Riven+Laroche" target="_blank">Riven Laroche</a> | <a href="https://roleplay.chat/profile.php?user=Star+Girl" target="_blank">Star Girl</a> |
       <a href="https://roleplay.chat/profile.php?user=Her+Messenger" class="tooltip" style="color: #fff; text-shadow: 0 0 5px gold;" target="_blank" title="Gold Tier Profile">Richter</a> | 
       <a href="https://roleplay.chat/profile.php?user=Macy" class="tooltip" style="color: skyblue; text-shadow: 0 0 5px white" target="_blank" title="Random Raffle Winner">Macy Lantern</a> | 
-      <a href="https://roleplay.chat/profile.php?user=.Alicia" target="_blank">Alicia</a>`;
+      <a href="https://roleplay.chat/profile.php?user=.Alicia" target="_blank">Alicia</a> | 
+      <a href="https://roleplay.chat/profile.php?user=Tsubaki." target="_blank">Tsubaki.</a> |
+      <a href="https://roleplay.chat/profile.php?user=Edgar+Allan+Poe" target="_blank">Edgar Allan Poe</a> |`;
     case 'pending':
       return `<p class='output'><b><u>Commission List</u></b></p>
-      <p class='output errorcode'>Tsubaki</p>
-      <p class='output'>Edgar Allan Poe</p>
-      <p class='output'>Alistair Bellenmondt</p>
+      <p class='output errorcode'>Alistair Bellenmondt</p>
       <p class='output'>Elsif</p>
-      <p class='output'>Akasha <i>[raffle draw winner]</i></p>`;
+      <p class='output'>Akasha <i>[raffle draw winner]</i></p>
+      <p class='output'>Intemperate</p>
+      <p class='output'>Addi</p>`;
     case 'contact':
       return `<p class='output'><b>Discord:</b> Lil Monster#3557</p>
       <p class='output'><b>E-mail:</b> ellexidecodes@gmail.com</p>`;
