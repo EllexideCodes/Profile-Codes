@@ -67,7 +67,7 @@ function proccessCMD(cmd) {
     case '':
       return '';
     default:
-      return "Unknown Command || type '--help' to see the command module";
+      return "Unknown Command || type 'help' to see the command module";
   }
   
 }
