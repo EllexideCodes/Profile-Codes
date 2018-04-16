@@ -3,7 +3,7 @@ function proccessCMD(cmd) {
   cmd = cmd.trim().toLowerCase();
   //there is only one command here. But you get the idea. Plug in your API call here.
   switch (cmd) {
-    case "--help":
+    case "help":
       return `<p class='output'><b>Commissions --</b> Gives you basics about Ellexide Codes commissions and a link to a more indepth information.</p>
       <p class='output'><b>Requests --</b> Information about code requests</p>
       <p class='output'><b>Code Raffles --</b> Information about upcoming raffle draws</p>
