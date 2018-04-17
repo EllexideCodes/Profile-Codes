@@ -128,5 +128,5 @@
      
    - [A Bad Bitch](http://pastebin.com/u/A_Bad_Bitch)
      
-   - [Devilsocket Designs](http://devilslocketdesigns.webs.com)
+   - [Devilslocket Designs](http://devilslocketdesigns.webs.com)
 
