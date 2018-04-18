@@ -48,9 +48,8 @@ function proccessCMD(cmd) {
       <a href="https://roleplay.chat/profile.php?user=Edgar+Allan+Poe" target="_blank">Edgar Allan Poe</a> |`;
     case 'pending':
       return `<p class='output'><b><u>Commission List</u></b></p>
-      <p class='output errorcode'>Alistair Bellenmondt</p>
-      <p class='output'>Elsif</p>
-      <p class='output'>Akasha <i>[raffle draw winner]</i></p>
+      <p class='output errorcode'>Akasha <i>[raffle draw winner]</i></p>
+      <p class='output'>Monami Frost</p>
       <p class='output'>Intemperate</p>
       <p class='output'>Addi</p>`;
     case 'contact':
