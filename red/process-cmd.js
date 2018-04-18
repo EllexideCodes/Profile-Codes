@@ -45,7 +45,8 @@ function proccessCMD(cmd) {
       <a href="https://roleplay.chat/profile.php?user=Macy" class="tooltip" style="color: skyblue; text-shadow: 0 0 5px white" target="_blank" title="Random Raffle Winner">Macy Lantern</a> | 
       <a href="https://roleplay.chat/profile.php?user=.Alicia" target="_blank">Alicia</a> | 
       <a href="https://roleplay.chat/profile.php?user=Tsubaki." target="_blank">Tsubaki.</a> |
-      <a href="https://roleplay.chat/profile.php?user=Edgar+Allan+Poe" target="_blank">Edgar Allan Poe</a> |`;
+      <a href="https://roleplay.chat/profile.php?user=Edgar+Allan+Poe" target="_blank">Edgar Allan Poe</a> |
+      <a href="https://roleplay.chat/profile.php?user=Alistair" target="_blank">Alistair Bellenmondt</a>`;
     case 'pending':
       return `<p class='output'><b><u>Commission List</u></b></p>
       <p class='output errorcode'>Akasha <i>[raffle draw winner]</i></p>
@@ -53,10 +54,12 @@ function proccessCMD(cmd) {
       <p class='output'>Intemperate</p>
       <p class='output'>Addi</p>`;
     case 'contact':
-      return `<p class='output'><b>Discord:</b> Lil Monster#3557</p>
+      return `<p class='output'><b>Website:</b><a href="https://ellexidecodes.github.io" target="_blank">E.C. Layouts</a></p>
+      <p class='output'><b>Discord:</b> Lil Monster#3557</p>
       <p class='output'><b>E-mail:</b> ellexidecodes@gmail.com</p>`;
     case 'coders':
       return `<p class='output'><b><u>More Coders</u></b></p>
+      <p><a href="https://roleplay.chat/profile.php?user=whomst" target="_blank" class='output'>whomst</a></p>
       <p><a href="https://roleplay.chat/profile.php?user=UFO" target="_blank" class='output'>U.F.O</a></p>
       <p><a href="https://roleplay.chat/profile.php?user=Alcyone" target="_blank" class='output'>Alcyone</a></p>
       <p><a href="http://devilslocketdesigns.webs.com/" target="_blank" class='output'>Devilsocket Designs</a></p>`;
