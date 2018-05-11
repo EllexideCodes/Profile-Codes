@@ -1,0 +1,2 @@
+$(document).ready(()=>{$('a.pic').each(function(i){var image=$(this).attr('href');var background=`background-image:url(${image})`;$(this).attr('style',background);})});function tab(idOne,idTwo){$(idOne).hide();$(idTwo).fadeIn('slow','swing');$('.arrow').toggle();}
+function toggleSecret(){$('#main, #secret').fadeToggle('fast','swing');}
