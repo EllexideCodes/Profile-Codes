@@ -96,7 +96,7 @@
      
    **GMAIL:** ellexidecodes@gmail.com
 
-   **OFFICIAL WEBSITE:** [EllexideCodes](https://ellexidecodes.github.io)
+   **OFFICIAL WEBSITE:** [EllexideCodes](https://ellexidecodes.github.io/contact-me)
      
    **TUMBLR:** [Tumblr](https://ellexide-codes.tumblr.com/ask)
        
