@@ -95,6 +95,8 @@
    **DISCORD:** Lil Monster#3557
      
    **GMAIL:** ellexidecodes@gmail.com
+
+   **OFFICIAL WEBSITE:** [EllexideCodes](https://ellexidecodes.github.io)
      
    **TUMBLR:** [Tumblr](https://ellexide-codes.tumblr.com/ask)
        
