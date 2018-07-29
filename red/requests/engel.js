@@ -1,0 +1,1 @@
+$(document).ready(()=>{$('#glitch-contain').click(()=>{$('#reee').fadeOut('fast','swing');$('#actual-body').show();$('#one').show();$('#two').show();$('#three').show();$('#four').show();$('#five').show();})})
