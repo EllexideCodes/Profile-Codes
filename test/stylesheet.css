@@ -69,8 +69,8 @@ body:hover .pokeball.bottom {
 .pokeball.top::before {
   content: '';
   position: absolute;
-  width: 12vw;
-  height: 12vw;
+  width: 22vh;
+  height: 22vh;
   border: 2.5vw solid black;
   background: white;
   border-radius: 50%;
