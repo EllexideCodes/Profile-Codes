@@ -3,7 +3,7 @@ if($(this).hasClass("tooltipTop")){this.TooltipMessage.addClass("top");}
 $(this).hover(tooltipFadeIn,tooltipFadeOut);$(this).mousemove(tooltipMousemove);}
 function tooltipFadeIn(){this.TooltipMessage.stop(true,false).fadeIn();}
 function tooltipFadeOut(){this.TooltipMessage.stop(true,false).fadeOut();}
-function tooltipMousemove(e){var offset={left:e.pageX,top:e.pageY};if(this.TooltipMessage.hasClass("left")){offset.left-=this.TooltipMessage.width()+20;}else{offset.left-=130;}
-if(this.TooltipMessage.hasClass("top")){offset.top-=this.TooltipMessage.height()+(this.TooltipMessage.height()*.40);}
+function tooltipMousemove(e){var offset={left:e.pageX,top:e.pageY};if(this.TooltipMessage.hasClass("left")){offset.left-=this.TooltipMessage.width()+20;}else{offset.left-=this.TooltipMessage.width()/2;}
+if(this.TooltipMessage.hasClass("top")){offset.top-=this.TooltipMessage.height()+50;}
 this.TooltipMessage.offset(offset);}
 $(function(e){$(".tooltip").each(tooltip);});
