@@ -1,45 +1,7 @@
-function tooltip() {
-  var title = $(this).attr("title");
-  $(this).removeAttr("title");
-  this.TooltipMessage = $("<div/>", {
-    class: "tooltipMessage",
-    style: "display: none;"
-  });
-  this.TooltipMessage.html("<span>" + title + "</span>");
-  $("body").append(this.TooltipMessage);
-  if ($(this).hasClass("tooltipLeft")) {
-    this.TooltipMessage.addClass("left");
-  }
-  if ($(this).hasClass("tooltipTop")) {
-    this.TooltipMessage.addClass("top");
-  }
-  $(this).hover(tooltipFadeIn, tooltipFadeOut);
-  $(this).mousemove(tooltipMousemove);
-}
-
-function tooltipFadeIn() {
-  this.TooltipMessage.stop(true, false).fadeIn();
-}
-
-function tooltipFadeOut() {
-  this.TooltipMessage.stop(true, false).fadeOut();
-}
-
-function tooltipMousemove(e) {
-  var offset = {
-    left: e.pageX,
-    top: e.pageY + 25
-  };
-  if (this.TooltipMessage.hasClass("left")) {
-    offset.left -= this.TooltipMessage.width() + 20;
-  } else {
-    offset.left -= 130;
-  }
-  if (this.TooltipMessage.hasClass("top")) {
-    offset.top -= this.TooltipMessage.height() + 20;
-  } 
-  this.TooltipMessage.offset(offset);
-}
-$(function (e) {
-  $(".tooltip").each(tooltip);
-});
+function tooltip(){var title=$(this).attr("title");$(this).removeAttr("title");this.TooltipMessage=$("<div/>",{class:"tooltipMessage",style:"display: none;"});this.TooltipMessage.html("<span>"+title+"</span>");$("body").append(this.TooltipMessage);if($(this).hasClass("tooltipLeft")){this.TooltipMessage.addClass("left");}
+$(this).hover(tooltipFadeIn,tooltipFadeOut);$(this).mousemove(tooltipMousemove);}
+function tooltipFadeIn(){this.TooltipMessage.stop(true,false).fadeIn();}
+function tooltipFadeOut(){this.TooltipMessage.stop(true,false).fadeOut();}
+function tooltipMousemove(e){var offset={left:e.pageX,top:e.pageY+25};if(this.TooltipMessage.hasClass("left")){offset.left-=this.TooltipMessage.width()+20;}else{offset.left-=130;}
+this.TooltipMessage.offset(offset);}
+$(function(e){$(".tooltip").each(tooltip);});
