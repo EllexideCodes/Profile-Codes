@@ -1,0 +1,3 @@
+$(document).ready(()=>{$(".flex-item").each(function(i){var image=$(this).attr("image");var background=`background-image:url(${image})`;$(this).attr("style",background);});$('.gallery').click((event)=>{var image=$(event.currentTarget).attr("image");$('#gallery-overlay').fadeIn('fast','swing');$('#gallery-overlay .img').attr('src',image);});})
+function summon(){$("#ritual").fadeOut(1000);setTimeout(()=>{$("#profile").show()},1000);}
+function toggleGallery(){$('#gallery-overlay').fadeToggle(200,'swing');}
