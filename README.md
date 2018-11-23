@@ -4,7 +4,7 @@
 
 2) [Warning](#warning)
 
-3) [Terms of Use](https://ellexide-codes.tumblr.com/disclaimer)
+3) [Terms of Use](https://ellexidecodes.github.io/disclaimers)
 
 4) [Get a Code](#how-to)
 
@@ -32,56 +32,25 @@
 
 ### How To
 
-#### How to Commission a Code
-   Contact me on Discord or mail me on RPC with the following information:
-   
-   - Photo/s that you wish to use in the profile *(please specify which one you wish to have as the main picture)* 
-     
-   - Specify if you are an RPC Donator or not
-   
-   - Price range **IMPORTANT**
-     
-   - Reference *(optional)*
-     
-   - Face Claim name *(Example: If you are using L from Death Note, say "My FC is L from Death Note")*
-     
-   - Number of tabs
-     
-   - Theme *(optional)*
-     
-   - Character name
-     
-   - RPC username it will be used for
+#### How to Commission & Request a Code
+You can directly e-mail me, message me on Discord (**Lil Monster#3557**), mail me on RPC, or immediately fill out the form found [here](https://ellexidecodes.github.io/contact-me). Click the type of request you wish to have at the top to display the form you have to fill out.
 
-#### How to Request a Code
-   Requested Code is different from a commissioned code. They are free and should there be some type of negotiation, exclusive for you to use. Otherwise, usual requested codes will become free for use.
-   
-   To request a code contact me on Discord *(and **ONLY** on Discord)*:
-   
-   - "I would like to request a code for this face claim..."
-   
-   - Link to photo/s you wish to use
-   
-   - Theme *(optional)*
-   
-   - Negotiation *(should you wish for exclusivity)*
+   **Reminder:** Requested Code is different from a commissioned code. They are free and should there be some type of negotiation, exclusive for you to use. Otherwise, usual requested codes will become free for use.
       
    **NOTE:** Sending in a request does not mean immediate approval or acceptance. It all depends on how busy I will be, my muse, the length of my commission and waiting list.
    
 #### How to Enter a Raffle
-   Raffles happen every so often and is announced both on [The Blog](https://ellexide-codes.tumblr.com) and my [Ellexide Profile](https://roleplay.chat/profile.php?user=Ellexide). All requirements, however, will be posted on The Blog.
+   Raffles happen every so often and is announced both on [The Website](https://ellexidecodes.github.io) and my [Ellexide Profile](https://roleplay.chat/profile.php?user=Ellexide). All requirements, however, will be posted on The Website.
    
    I accept raffle entries 3 - 5 days after the announcement. The requirement varies constantly so if you weren't eligable or did not win the last raffle, stay tuned for the next one!
    
 #### How to Report a Bug
-   My codes are not perfect so every so often there may be a bug I may have missed. If you do find one, please find me on Discord or mail me on RPC with the following details:
-   
-   - Name of code *(Code Kitty Cat, Code Assassin, Code Ruby Eyes, etc.)*
-   
-   - Nature of bug or glitch *(if you can provide a screenshot or gif, please do)*
+   My codes are not perfect so every so often there may be a bug I may have missed. If you do find one, please find me on Discord, mail me on RPC, or fill up the Troubleshoot form found [here](https://ellexidecodes.github.io/contact-me)
       
    **What do I get out of reporting a bug fix instead of fixing it myself?**
       Well, reporting a bug fix means that I will fix this bug for everyone who is or will be using the code. That makes me grateful c: If the bug you reported is considered a big enough problem, I will go ahead and make a free code with any of your characters as a muse and fits your specifications. (Not a requested code because this won't be exclusive, it will always be free)
+
+
 
 ---
 
@@ -121,6 +90,8 @@
 
 ### More Coders
    As much as I do my own coding, there are many coders who's work I really admire. If my codes are not up to your fancy, I have a list of all my favourite coders.
+
+   - [whomst](https://roleplay.chat/profile.php?user=whomst)
    
    - [U.F.O.](https://roleplay.chat/profile.php?user=UFO)
      
