@@ -170,6 +170,11 @@
 }
 
 @font-face {
+   font-family: 'Helvetica';
+   src: url('https://dl.dropbox.com/s/pfw59ut6nylgw4b/HelveticaNeue-Thin.woff') format('opentype')
+}
+
+@font-face {
    font-family: 'Hemera'; 
    src: url('https://dl.dropbox.com/s/wyejdy5h0my5msx/Hemera%20II%20DEMO.ttf') format('truetype')
 } /* lowercase only */
