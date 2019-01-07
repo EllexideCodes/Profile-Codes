@@ -1,0 +1,17 @@
+function showTime(){var date=new Date();var h=date.getHours();var m=date.getMinutes();var s=date.getSeconds();var dayNum=date.getDay();var thisDate=date.getDate();var monthNum=date.getMonth();const months=["January","February","March","April","May","June","July","August","September","October","November","December"];const days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];var day=days[dayNum];var month=months[monthNum];if(h==0){h=12;}
+if(h>12){h=h-12;}
+h=(h<10)?"0"+h:h;m=(m<10)?"0"+m:m;s=(s<10)?"0"+s:s;var time=h+":"+m;var fullDate=day+" "+thisDate+" "+month;$("#time, #openPhone .time").html(time);$("#date").html(fullDate);setTimeout(showTime,1000);}
+$(function(){$("#gradient").draggable({axis:'x',containment:'parent'});})
+function openPhone(){setTimeout(function(){$("#openPhone").animate({opacity:1},500,"linear");$("#openPhone").css("pointer-events","all");$(".app").animate({margin:".25vw 0"},1000,"linear");},1000);}
+let saveTab="Out of Character";let saveOpens="#ooc";function selectTab(opens){var $target=$(`.app[opens="${opens}"]`);var append=`<div class="app appended"opens="${saveOpens}"onclick="selectTab('${saveOpens}')">${saveTab}</div>`;var newTab=$target.html();var newOpens=$target.attr("opens");$(".app").removeClass("appended");$(".window").fadeOut(200);$(opens).show();$target.animate({marginLeft:"27vw"},500,"linear");$target.animate({height:"0",fontSize:".1vh"},250,"linear");setTimeout(function(){$target.remove()
+$(".appsCont").append(append);saveTab=newTab;saveOpens=newOpens;},1000);}
+function openVol(){$("#volume").fadeIn(200);}
+$(document).ready(()=>{var volume=$("#volBar .volPip").length;var music=document.getElementById("music");music.volume=0;showTime();var closeVol=null;$(".app").css("margin","50vh 0");$(".app").each(function(){var opens=$(this).attr("opens");$(this).attr("onclick",`selectTab('${opens}')`);});$(".friend .face").each(function(){var image=$(this).attr("img");if(!image){image="https://sspride.org/wp-content/uploads/2017/03/image-placeholder-500x500.jpg";}
+$(this).css("background-image",`url(${image})`);})
+$("#heartBubble.click").click(()=>{$("#heartBubble").fadeOut(200);$("#phoneHolder").addClass("appear");$(".pug").fadeOut(200);setTimeout(function(){$("#ooc").show();},200);})
+$(".quickApp.music").click(()=>{if(music.volume==0){music.play();music.volume=volume/10;}else{music.pause();music.volume=0;}})
+$("#phone__volDOWN").click(()=>{openVol();if(volume!=0){$(".volPip").last().remove();--volume;music.volume-=0.1;}
+clearTimeout(closeVol);closeVol=setTimeout(()=>{$("#volume").fadeOut(200);},1000);});$("#phone__volUP").click(()=>{openVol();if(volume!=10){$("#volBar").append(`<div class="volPip"></div>`);++volume;music.volume+=0.1;}
+clearTimeout(closeVol);closeVol=setTimeout(()=>{$("#volume").fadeOut(200);},1000);})
+$("#right").mousedown(()=>{$("#gradient").animate({left:"0"},500,"linear");openPhone();});$("#left").mousedown(()=>{$("#gradient").animate({left:"85vw"},500,"linear");openPhone();})
+$("#phone__lock").click(()=>{$("#gradient").animate({left:"42.5vw"},500,"linear");$("#openPhone").css("pointer-events","none");$("#openPhone").animate({opacity:0},250,"linear");setTimeout(function(){$(".app").css("margin","50vh 0");},500);})});
