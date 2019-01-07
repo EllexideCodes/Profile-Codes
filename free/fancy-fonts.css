@@ -145,6 +145,11 @@
 } /* no symbols */
 
 @font-face {
+   font-family: 'Gallow Tree'; 
+   src: url('https://dl.dropbox.com/s/ys2wndqomzxxr5f/GallowTreeFree-Regular.ttf') format('truetype')
+}
+
+@font-face {
    font-family: 'Gotham'; 
    src: url('https://dl.dropbox.com/s/tffoaijqylvmp30/GothamLight.ttf') format('truetype')
 }
@@ -232,6 +237,11 @@
 @font-face {
    font-family: 'October Moon'; 
    src: url('https://dl.dropbox.com/s/z49rr2431o79cl2/October%20Moon%20-%20TTF.ttf') format('truetype')
+}
+
+@font-face {
+   font-family: 'Odachi'; 
+   src: url('https://dl.dropbox.com/s/7l0u2xl5eq51caj/Odachi.otf') format('opentype')
 }
 
 @font-face {
