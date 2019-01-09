@@ -4,6 +4,11 @@
 }
 
 @font-face {
+   font-family: 'Abraham Lincoln'; 
+   src: url('https://dl.dropbox.com/s/1czzuhiyzch5po7/AbrahamLincoln.ttf') format('truetype')
+}
+
+@font-face {
    font-family: 'Above'; 
    src: url('https://dl.dropbox.com/s/tdoi59h9cnnykvt/ABOVE%20%20-%20PERSONAL%20USE%20ONLY.ttf') format('truetype')
 } /* no numbers */
