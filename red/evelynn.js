@@ -1,6 +1,6 @@
-function videoEnd(){console.log("Intro has ended");$("#intro").fadeOut(200);$("#black").fadeOut(1000);document.getElementById("music").play();$("#bar").css({transform:"translate(0, -50%)",opacity:'1'})
+function videoEnd(){var background=$("#background").get(0);background.play();console.log("Intro has ended");$("#intro").fadeOut(200);$("#black").fadeOut(1000);document.getElementById("music").play();$("#bar").css({transform:"translate(0, -50%)",opacity:'1'})
 setTimeout(function(){$("#bar").css("height","25vw");},3000);setTimeout(function(){$("#eve").css({transform:"translateX(0)",opacity:"1"});},4000)
-setTimeout(function(){$("#mainBox").css({height:"33vw",opacity:"1"});$("#nav").css({height:"fit-content",opacity:"1"})},6000)}
+setTimeout(function(){$("#mainBox").css({height:"33vw",opacity:"1"});$("#nav").css({height:"auto",opacity:"1"})},6000)}
 $(document).ready(()=>{var video=$("#intro").get(0);var music=document.getElementById("music");video.volume=0.05;music.volume=0.1;$("#volUp").click(()=>{if(music.volume!=1){music.volume+=0.1;}});$("#volDown").click(()=>{if(music.volume!=0){music.volume-=0.1;}})
 $("#button").click(()=>{$("#button").fadeOut(500);video.play();});$(".pip").click(function(){var opens=$(this).attr("opens");console.log("Pip clicked!");$(".pip").removeClass("selected");$(this).addClass("selected");$(".tab").fadeOut(200);setTimeout(function(){$(opens).fadeIn(200);},200)})
 $(".friend, .image, .skill .logo").each(function(){var image=$(this).attr("img");if(!image){image="https://4.bp.blogspot.com/-YZ3S5BXNVO8/Wo3Uu1OBlkI/AAAAAAAA5fI/35MlKNhZG6sNyd1ZTipTbhPUZ4Qsg_VRgCEwYBhgL/s1600/3369.jpg";}
