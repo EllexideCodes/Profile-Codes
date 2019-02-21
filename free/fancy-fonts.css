@@ -260,6 +260,11 @@
 }
 
 @font-face {
+   font-family: 'Otsutome'; 
+   src: url(https://dl.dropbox.com/s/0l9rd5jt1g3ay9m/OtsutomeFont_Ver2.ttf) format('truetype')
+}
+
+@font-face {
    font-family: 'Purista'; 
    src: url('https://dl.dropbox.com/s/hyrmlnvqno8g1mk/Purista%20Medium.otf') format('opentype')
 }
