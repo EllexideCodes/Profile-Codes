@@ -44,6 +44,11 @@
 } /* letters only */
 
 @font-face {
+   font-family: 'Athena'; 
+   src: url('https://www.dropbox.com/s/0yopvtx7feigq4c/Athena%20of%20the%20Ocean.ttf?dl=0') format('truetype')
+} /* No numbers, no symbols */
+
+@font-face {
    font-family: 'Atlantida'; 
    src: url('https://dl.dropbox.com/s/2afll0hh65hmd4m/Atlantida%20%20Personal%20Use.ttf') format('truetype')
 } /* no numbers */
@@ -100,6 +105,11 @@
 } /* letters only */
 
 @font-face {
+   font-family: 'Brilliantte'; 
+   src: url('https://www.dropbox.com/s/q8rbedp9hh1ryo0/Brilliantte.ttf?dl=0') format('truetype')
+} /* letters only */
+
+@font-face {
    font-family: 'Calligraphy Dry'; 
    src: url('https://dl.dropbox.com/s/gl7qqteq4gjm2kr/Calligraphy%20Personal%20Use.ttf') format('truetype')
 } /* letters only */
@@ -108,6 +118,11 @@
    font-family: 'Calligraphy Wet'; 
    src: url('https://dl.dropbox.com/s/hy2dc15mx7jxi3l/Calligraphy%20wet%20Personal%20Use.ttf') format('truetype')
 } /* letters only */
+
+@font-face {
+   font-family: 'Candle Mustard'; 
+   src: url('https://www.dropbox.com/s/eao8pvq846rzlou/Candle%20Mustard.ttf?dl=0') format('truetype')
+}
 
 @font-face {
    font-family: 'Chasing Embers'; 
@@ -158,6 +173,11 @@
    font-family: 'Exan'; 
    src: url('https://dl.dropbox.com/s/lhihsdhmoft3zej/Exan-Regular.ttf') format('truetype')
 } /* no symbols */
+
+@font-face {
+   font-family: 'Flashlight'; 
+   src: url('https://www.dropbox.com/s/eklwi4gbngy4nqt/flashlight.ttf?dl=0') format('truetype')
+}
 
 @font-face {
    font-family: 'Gallow Tree'; 
@@ -217,6 +237,11 @@
 @font-face {
    font-family: 'Italiano'; 
    src: url('https://dl.dropbox.com/s/qpwz38sxm54z087/Italiano%20.otf') format('opentype')
+}
+
+@font-face {
+   font-family: 'Jane Austen'; 
+   src: url('https://www.dropbox.com/s/7il8elflxhecsl9/JaneAust.ttf?dl=0') format('truetype')
 }
 
 @font-face {
@@ -319,3 +344,32 @@
    src: url('https://dl.dropbox.com/s/0r4nh2shkfqo2t4/vtks%20lightness%202.ttf') format('truetype')
 } /* letters only */
 
+@font-face {
+   font-family: 'Lovely Home'; 
+   src: url('https://www.dropbox.com/s/kes1pt7n7q2zyln/Lovely%20Home.ttf?dl=0') format('truetype')
+}
+
+@font-face {
+   font-family: 'Mustardo'; 
+   src: url('https://www.dropbox.com/s/6h8ywrckp8kcuwe/mustardo.ttf?dl=0') format('truetype')
+} /* no numbers */
+
+@font-face {
+   font-family: 'Sensations'; 
+   src: url('https://www.dropbox.com/s/0knx8wx2d9zz2e2/Sensations%20and%20Qualities.ttf?dl=0') format('truetype')
+}
+
+@font-face {
+   font-family: 'Signature'; 
+   src: url('https://www.dropbox.com/s/hjms4gm2mv2ki6a/Signature%20of%20the%20Ancient.ttf?dl=0') format('truetype')
+} /* no symbols */
+
+@font-face {
+   font-family: 'The Blacklist'; 
+   src: url('https://www.dropbox.com/s/0oauwu0kdu347v8/The%20Blacklist.ttf?dl=0') format('truetype')
+}
+
+@font-face {
+   font-family: 'The Mumbai Sticker'; 
+   src: url('https://www.dropbox.com/s/zclnru4wpjtpzxz/TheMumbaiStickerDemo-SVG.ttf?dl=0') format('truetype')
+} /* some symbols */
