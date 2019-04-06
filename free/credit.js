@@ -14,6 +14,8 @@ $(document).ready(() => {
   console.log('%cThis code is either paid for, copyrighted, or both! In an event that you find this, you are already trying to bypass that. Please turn back now and simply ask Elle for any question regarding this profile.', 'color: #333; font-size: 3vh;font-family: Calibri;');
   console.log('%cIf you want to know more, go to http://ellexidecodes.github.io', 'color: #333; font-size: 3vh;font-family: Calibri;');
   var credit = document.querySelectorAll("a[href=https://roleplay.chat/profile.php?user=Ellexide]")[0];
-  credit.href="https://roleplay.chat/profile/php?user=The+Monster";
-  credit.innerHTML = "The Monster";
+  if(credit !== null || credit !== undefined) {
+    credit.href="https://roleplay.chat/profile/php?user=The+Monster";
+    credit.innerHTML = "The Monster";
+  }
 });
