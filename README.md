@@ -14,6 +14,12 @@
 
 ---
 
+# ANNOUNCEMENT
+
+   As of April 7, 2019; Ellexide Codes has rebranded to **The Monster** (aka Monster Dev). This repository will never be updated but the copyright and intellectual rights claim will stand indefinitely.
+
+---
+
 ### Description
 
    These layouts are all property of Ellexide Codes. They are under copyright and should **not** be taken/copied/altered/redistributed/claimed/studied without permission from *Ellexide*. They will constantly be in progress for bug fixes or minor edits unless specifically stated.
@@ -40,7 +46,7 @@ You can directly e-mail me, message me on Discord (**Lil Monster#3557**), mail m
    **NOTE:** Sending in a request does not mean immediate approval or acceptance. It all depends on how busy I will be, my muse, the length of my commission and waiting list.
    
 #### How to Enter a Raffle
-   Raffles happen every so often and is announced both on [The Website](https://ellexidecodes.github.io) and my [Ellexide Profile](https://roleplay.chat/profile.php?user=Ellexide). All requirements, however, will be posted on The Website.
+   Raffles happen every so often and is announced both on [The Website](https://www.themonster.xyz) and my [Ellexide Profile](https://roleplay.chat/profile.php?user=Deum). All requirements, however, will be posted on The Website.
    
    I accept raffle entries 3 - 5 days after the announcement. The requirement varies constantly so if you weren't eligable or did not win the last raffle, stay tuned for the next one!
    
@@ -59,7 +65,7 @@ You can directly e-mail me, message me on Discord (**Lil Monster#3557**), mail m
 #### Where can I contact you?
    You can contact in the following places:
    
-   **RPC:** Ellexide
+   **RPC:** Deum
     
    **DISCORD:** Lil Monster#3557
      
@@ -67,7 +73,6 @@ You can directly e-mail me, message me on Discord (**Lil Monster#3557**), mail m
 
    **OFFICIAL WEBSITE:** [EllexideCodes](https://ellexidecodes.github.io/contact-me)
      
-   **TUMBLR:** [Tumblr](https://ellexide-codes.tumblr.com/ask)
        
 #### What can I contact you for?
    I'm always free to be contacted for any inquiry. But I will always answer inquiries and messages about:
@@ -93,7 +98,7 @@ You can directly e-mail me, message me on Discord (**Lil Monster#3557**), mail m
 
    - [whomst](https://roleplay.chat/profile.php?user=whomst)
    
-   - [U.F.O.](https://roleplay.chat/profile.php?user=UFO)
+   - [words](https://roleplay.chat/profile.php?user=words)
      
    - [Alcyone](https://roleplay.chat/profile.php?user=Alcyone)
      
